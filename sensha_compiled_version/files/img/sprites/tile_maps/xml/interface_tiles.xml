@@ -1,0 +1,31 @@
+<TextureAtlas imagePath="interface-design.png">
+	<SubTexture num="0" name="Menu_Bar" x="0" y="0" width="1528" height="2283"/>
+	<SubTexture num="1" name="Button_Pitch_Rest" x="1528" y="0" width="77" height="77"/>
+	<SubTexture num="2" name="Button_Pitch_Hover" x="1605" y="0" width="77" height="77"/>
+	<SubTexture num="3" name="Button_Pitch_Active" x="1682" y="0" width="77" height="77"/>
+	<SubTexture num="4" name="Pitch_Arrow_Left" x="1759" y="0" width="98" height="188"/>
+	<SubTexture num="5" name="Pitch_Arrow_Right" x="1857" y="0" width="98" height="188"/>
+	<SubTexture num="6" name="Energy" x="1955" y="0" width="106" height="175"/>
+	<SubTexture num="7" name="Battery" x="2061" y="0" width="88" height="150"/>
+	<SubTexture num="8" name="Credit" x="2149" y="0" width="182" height="144"/>
+	<SubTexture num="9" name="Research" x="2331" y="0" width="166" height="182"/>
+	<SubTexture num="10" name="Equip" x="2497" y="0" width="200" height="200"/>
+	<SubTexture num="11" name="One" x="3401" y="0" width="167" height="166"/>
+	<SubTexture num="12" name="Two" x="3568" y="0" width="167" height="166"/>
+	<SubTexture num="13" name="Three" x="3735" y="0" width="167" height="166"/>
+	<SubTexture num="14" name="Four" x="3902" y="0" width="167" height="166"/>
+	<SubTexture num="15" name="Five" x="4069" y="0" width="167" height="166"/>
+	<SubTexture num="16" name="Six" x="4236" y="0" width="167" height="166"/>
+	<SubTexture num="17" name="Seven" x="4403" y="0" width="167" height="166"/>
+	<SubTexture num="18" name="Eight" x="4570" y="0" width="167" height="166"/>
+	<SubTexture num="19" name="Nine" x="4737" y="0" width="167" height="166"/>
+	<SubTexture num="20" name="Timer" x="2844" y="0" width="163" height="189"/>
+	<SubTexture num="21" name="Upgrade" x="3007" y="0" width="184" height="184"/>
+	<SubTexture num="22" name="Shield" x="4904" y="0" width="143" height="172"/>
+	<SubTexture num="23" name="Swords" x="2844" y="184" width="175" height="168"/>
+	<SubTexture num="24" name="Cannon" x="3191" y="0" width="210" height="170"/>
+	<SubTexture num="25" name="Lock" x="2697" y="0" width="147" height="196"/>
+	<SubTexture num="26" name="Build" x="3019" y="184" width="162" height="162"/>
+	<SubTexture num="27" name="Pause" x="3181" y="172" width="130" height="169"/>
+
+</TextureAtlas>

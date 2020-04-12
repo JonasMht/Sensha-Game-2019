@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="interface-design.png">
+	<SubTexture num="0" name="Front_Door" x="2560" y="0" width="2560" height="1440"/>
+	<SubTexture num="1" name="Back_Door" x="0" y="0" width="2560" height="1440"/>
+</TextureAtlas>
