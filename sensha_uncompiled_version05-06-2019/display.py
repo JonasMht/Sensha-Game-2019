@@ -23,8 +23,8 @@ class Load_Page_Display():
         self.cheat = False
         
         
-        pg.mixer.music.load("files/sound/music/menu_music.ogg")
-        pg.mixer.music.play(-1,0)
+        #pg.mixer.music.load("files/sound/music/menu_music.ogg")
+        #pg.mixer.music.play(-1,0)
         
         Image(self.glob, pg.image.load("files/img/sprites/poster.png").convert_alpha(), vec(0.5,0.5), 1, 1, 0)
 
